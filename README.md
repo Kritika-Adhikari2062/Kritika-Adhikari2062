@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**Kritika-Adhikari2062/Kritika-Adhikari2062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi👋there! I'm Kritika Adhikari
 🖌️ I,m a graphic designer who loves creating stunning visuals using **canva** and **photoshop**

@@ -13,9 +13,9 @@
 
 🍪**Design Tools**  
 
- Canva
+ -Canva
 
- Photoshop  
+ -Photoshop  
 
 💻**Frontend basics**  
 

@@ -1,5 +1,5 @@
 
-Hi👋there! I'm Kritika Adhikari   
+  Hi👋there! I'm Kritika Adhikari   
 
 🖌️ I,m a graphic designer who loves creating stunning visuals using **canva** and **photoshop**  
 
@@ -13,8 +13,9 @@ Hi👋there! I'm Kritika Adhikari
 
 🍪**Design Tools**  
 
-- Canva
--Photoshop  
+ Canva
+
+ Photoshop  
 
 💻**Frontend basics**  
 

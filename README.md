@@ -14,7 +14,6 @@ Hi👋there! I'm Kritika Adhikari
 🍪**Design Tools**  
 
 - Canva
-  
 -Photoshop  
 
 💻**Frontend basics**  

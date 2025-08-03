@@ -1,7 +1,7 @@
 
   Hi👋there! I'm Kritika Adhikari   
 
-🖌️ I,m passionate in graphic designing  who loves creating stunning visuals using **canva** and **photoshop**  
+🖌️ I,m passionate in graphic designing  who loves creating stunning visuals using **canva** and **photoshop** . 
 
 🍀I'm learning frontend development-Html,css, and javascript.   
 

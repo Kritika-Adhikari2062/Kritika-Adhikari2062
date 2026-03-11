@@ -1,30 +1,27 @@
 
-  Hi👋there! I'm Kritika Adhikari   
+  # Hi 👋, I'm Kritika Adhikari
 
-🖌️ I,m passionate in graphic designing  who loves creating stunning visuals using **canva** and **photoshop** . 
+🎨 I am a passionate **Graphic Designer** who loves creating stunning visuals using **Canva** and **Photoshop**. 
+ I have completed over 90+ design projects in canva!
 
-🍀I'm learning frontend development-Html,css, and javascript.   
+👨‍💻 I’m currently in  a **final year BCA student** learning **Frontend Development** (HTML, CSS, and JavaScript).
 
-💡I enjoy combining design and tech to make clean ,user friendly web interfaces.  
+💡 I enjoy combining design and tech to create clean, user-friendly web interfaces.
 
- 
-## 🔨Tools I Use  
+---
 
+### 🛠️ Tools I Use
 
-🍪**Design Tools**  
+**🎨 Design Tools**
+- Canva (Expert)
+- Photoshop (Basics)
 
- -Canva
+**💻 Frontend & Tech**
+- HTML5 & CSS3
+- JavaScript (Learning)
+- Java (College Projects)
 
- -Photoshop  
-
-💻**Frontend basics**  
-
--HTML  
-
--CSS  
-
--Javascript  
-
+---
 
 ## 🔗 Follow Me  
 
